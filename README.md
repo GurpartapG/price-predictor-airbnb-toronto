@@ -102,7 +102,6 @@ _(Plots included in the notebook)_
 
 ```
 price-predictor-airbnb-toronto/
-│── bnb_listings.csv 
 │── mAirbnb_Toronto_Price_Prediction.ipynb 
 │── README.md 
 ```
